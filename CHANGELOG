@@ -1,0 +1,4 @@
+0.1.1dev
+--------
+
+ * corrected get_tag_uri to support https and port numbers
