@@ -1,5 +1,7 @@
 django-atomformat
 -----------------
+.. image:: http://slack.pinaxproject.com/badge.svg
+   :target: http://slack.pinaxproject.com/
 
 .. image:: https://img.shields.io/travis/pinax/atom-format.svg
     :target: https://travis-ci.org/pinax/atom-format
